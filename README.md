@@ -1,4 +1,4 @@
-Hi 👋 My name is BATUHAN BAŞTÜRK
+Hi, my name is BATUHAN BAŞTÜRK
 ================================
 
 Computer Engineer
