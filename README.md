@@ -4,7 +4,7 @@ Hi, my name is BATUHAN BAŞTÜRK
 Computer Engineer
 -----------------
 
-I have been developing projects with php and frameworks for more than 3 years. I love learning different technologies and languages. Do not hesitate to contact if there is a project that you think I can support.
+I have been developing projects with php and frameworks(Laravel, Codeigniter 3) for more than 5 years. I love learning different technologies and languages. Do not hesitate to contact if there is a project that you think I can support.
 
 * 🌍  I'm based in Istanbul
 * ✉️  You can contact me at [batuhanbassturk@gmail.com](mailto:batuhanbassturk@gmail.com)
