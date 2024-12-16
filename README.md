@@ -8,7 +8,7 @@ I have been developing projects with php and frameworks(Laravel, Codeigniter 3) 
 
 * 🌍  I'm based in Istanbul
 * ✉️  You can contact me at [batuhanbassturk@gmail.com](mailto:batuhanbassturk@gmail.com)
-* 🚀  I'm currently working on [Etiya](https://www.etiya.com/en)
+* 🚀  I'm currently working on [Etiya](https://www.etiya.com)
 * 🧠  I'm learning .Net Framework
 * 🤝  I'm open to collaborating on interesting amazing projects.
 
