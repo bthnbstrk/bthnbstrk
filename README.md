@@ -7,11 +7,7 @@ Computer Engineer
 * 🌍  I'm based in Istanbul
 * ✉️  You can contact me at [batuhanbassturk@gmail.com](mailto:batuhanbassturk@gmail.com)
 * 🚀  I'm currently working on [Etiya](https://www.etiya.com)
-* 🧠  I'm learning .Net Framework
 * 🤝  I'm open to collaborating on interesting amazing projects.
-
-<a href="https://www.github.com/bthnbstrk" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/bthnbstrk?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
 
